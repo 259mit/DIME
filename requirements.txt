@@ -1,0 +1,9 @@
+streamlit==0.55.2
+pandas==0.24.2
+matplotlib==2.2.5
+numpy==1.16.6
+imutils==0.5.4
+keras==2.4.3
+pydicom==2.2.0
+pyngrok==5.0.5
+skimage==0.0
