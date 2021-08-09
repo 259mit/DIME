@@ -2,6 +2,8 @@
 Disease Identification Made Easy!
 Breast Cancer Identification using CNNs.
 
+By Mithesh Ramachandran, Sagarika Raje, Kopal Sharma and Ujwal Shah.
+
 ### Directory Metadata:
 
 ```
@@ -36,4 +38,3 @@ Breast Cancer Identification using CNNs.
    └─ requirements.txt (Notebook requirements)
 ```
 
-By Mithesh Ramachandran and Sagarika Raje
